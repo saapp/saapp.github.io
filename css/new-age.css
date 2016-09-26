@@ -397,7 +397,11 @@ footer ul li a.active {
   background: -webkit-linear-gradient(#fdcc52, #fdc539);
   background: linear-gradient(#fdcc52, #fdc539);
 }
-
+.bg-contact {
+    background: #7b4357;
+  background: -webkit-linear-gradient(#7b4357, #dc2430);
+  background: linear-gradient(#7b4357, #dc2430);
+}
 .text-primary {
   color: #fdcc52;
 }
